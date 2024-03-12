@@ -2,3 +2,6 @@
 Introduction to git and github
 
 This repository is my first repo in university from week 8, just to practice git.
+## text
+### text 2
+#### text 4
